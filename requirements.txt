@@ -1,0 +1,12 @@
+numpy
+pickle5
+opencv-python
+opencv-contrib-python
+TIME-python
+DateTime
+scikit-learn
+python-csv
+pandas
+streamlit
+pywin32
+glob2
